@@ -10,7 +10,7 @@ Le serveur est lancé par le root dans le répertoire `/srv/minecraft/`
 Les scripts sont stockés dans `/srv/scripts/`
 ## Installer un plugin
 Il suffit de le télécharger dans `/srv/minecraft/plugins/`  
-Vous pouvez l'héberger sur (transfer.sh)[http://transfer.sh]  
+Vous pouvez l'héberger sur [transfer.sh](http://transfer.sh)  
 Et le télécharger avec `wget url`
 Il est nécessaire de connaitre les commandes de base linux.
 Un redémarrage est nécessaire pour lancer un plugin
